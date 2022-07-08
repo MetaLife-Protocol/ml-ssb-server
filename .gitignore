@@ -5,3 +5,7 @@ node_modules
 *.log
 coverage
 
+/.idea/modules.xml
+/.idea/ssb-server.iml
+/.idea/vcs.xml
+/.idea/.gitignore
