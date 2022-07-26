@@ -9,3 +9,4 @@ coverage
 /.idea/ssb-server.iml
 /.idea/vcs.xml
 /.idea/.gitignore
+/.idea/jsLibraryMappings.xml
