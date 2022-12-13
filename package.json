@@ -15,6 +15,7 @@
     "start": "node bin start",
     "who": "node bin whoami",
     "invite": "node bin invite.create 10000",
+    "code": "10.13.230.223:8008:@+DkJS4iEKDESL20sP50q8J+JZRqrDUDIu7Mtg2riiSU=.ed25519~mLdBhdql2p3QAgeRgVNm3KTqzOJKDI04LuJdtUbwva8=",
     "prepublishOnly": "npm test",
     "test": "set -e; for t in test/*.js; do echo TEST $t; node $t; done",
     "test:pretty": "npm run test | tap-spec",
