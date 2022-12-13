@@ -14,7 +14,7 @@
   "scripts": {
     "start": "node bin start",
     "who": "node bin whoami",
-    "invite": "node bin invite.create 1",
+    "invite": "node bin invite.create 10000",
     "prepublishOnly": "npm test",
     "test": "set -e; for t in test/*.js; do echo TEST $t; node $t; done",
     "test:pretty": "npm run test | tap-spec",
